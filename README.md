@@ -61,28 +61,7 @@ This will start the React development server, and you should be able to access t
   - [Redux](https://redux.js.org/) - State management
   - [Axios](https://github.com/axios/axios) - HTTP client
   - [Material-UI](https://mui.com/) - UI framework for designing the interface
+  - [MDB React](https://mdbootstrap.com/docs/react/) - Material Design for Bootstrap 5 & React 18
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://example.com/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://example.com/project/tags). 
-
-## Authors
-
-* **Your Name** - *Initial work* - [YourGitHub](https://github.com/YourGitHub)
-
-See also the list of [contributors](https://example.com/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 This version includes a brief overview of the project's main feature, the interactive map, and offers insight into the tech stack involved. Remember to customize sections like the project title, installation URLs, author information, and acknowledgments to fit your project's specifics.
