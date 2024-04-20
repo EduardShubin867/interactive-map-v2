@@ -1,0 +1,112 @@
+.leaflet-popup-content-wrapper,
+.leaflet-popup-content {
+    margin: 0;
+    border-radius: 8px;
+}
+
+.control-switch {
+    border: 0 !important;
+}
+
+.marker-icon-options {
+    width: 48px;
+    cursor: pointer;
+}
+
+.marker-icon-selected {
+    border-radius: 3px;
+    color: black !important;
+    border: 2px solid;
+    border-color: black !important;
+    padding: 2px;
+}
+
+.marker-control {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    height: 100%;
+}
+
+.control-btn {
+    position: absolute;
+    top: 40px;
+    right: 10px;
+}
+
+.edit-marker-textarea {
+    font-size: 13px !important;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+        sans-serif;
+    border-style: solid !important;
+    resize: none;
+}
+
+.edit-marker-name {
+    border: 0 !important;
+    font-size: 20px !important  ;
+    border-radius: 0.5rem !important;
+    border-style: solid !important;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+        sans-serif;
+    text-align: center;
+}
+
+.form-outline .form-control:focus ~ .form-notch .form-notch-trailing,
+.form-outline .form-control.focused ~ .form-notch .form-notch-trailing,
+.form-outline .form-control ~ .form-notch .form-notch-trailing,
+.form-outline .form-control ~ .form-notch .form-notch-trailing {
+    border-radius: 0 5px 5px 0;
+}
+.form-outline .form-control:focus ~ .form-notch .form-notch-leading,
+.form-outline .form-control.focused ~ .form-notch .form-notch-leading,
+.form-outline .form-control ~ .form-notch .form-notch-leading,
+.form-outline .form-control ~ .form-notch .form-notch-leading {
+    border-radius: 6px 0 0 6px;
+}
+
+.drag-drop {
+    z-index: 9999;
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    height: 100%; */
+    backdrop-filter: blur(20px);
+    background-color: rgba(145, 8, 8, 0.952);
+}
+.new-marker-popup {
+    min-height: 440px;
+    min-width: 300px;
+}
+
+.grey-box-placeholder {
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+}
+
+.text-placeholder {
+    color: grey;
+    user-select: none;
+}
+
+.popover-control {
+    min-width: 300px;
+}
+
+.popover::-webkit-scrollbar {
+    width: 5px; /* ширина полоски прокрутки */
+}
+
+.popover::-webkit-scrollbar-thumb {
+    background-color: #888; /* цвет полоски прокрутки */
+    border-radius: 10px; /* закругление углов полоски прокрутки */
+}
+
+.popover::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* цвет фона полоски прокрутки */
+}

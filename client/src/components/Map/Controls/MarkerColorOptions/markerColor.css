@@ -1,0 +1,50 @@
+.marker-color--black {
+    filter: invert(0%) sepia(0%) saturate(7482%) hue-rotate(140deg)
+        brightness(92%) contrast(95%);
+}
+
+.marker-color--white {
+    filter: invert(100%) sepia(96%) saturate(15%) hue-rotate(242deg)
+        brightness(104%) contrast(100%);
+}
+
+.marker-color--yellow {
+    filter: invert(95%) sepia(97%) saturate(2270%) hue-rotate(355deg)
+        brightness(108%) contrast(105%);
+}
+
+.marker-color--blue {
+    filter: invert(17%) sepia(26%) saturate(6368%) hue-rotate(216deg)
+        brightness(93%) contrast(87%);
+}
+
+.marker-color--skyblue {
+    filter: invert(84%) sepia(47%) saturate(2766%) hue-rotate(181deg)
+        brightness(105%) contrast(100%);
+}
+
+.marker-color-option {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.marker-color-option--black {
+    background-color: #000000;
+}
+
+.marker-color-option--white {
+    background-color: #ffffff;
+}
+
+.marker-color-option--yellow {
+    background-color: #ffff00;
+}
+
+.marker-color-option--blue {
+    background-color: #203f8b;
+}
+
+.marker-color-option--skyblue {
+    background-color: #99ccff;
+}
