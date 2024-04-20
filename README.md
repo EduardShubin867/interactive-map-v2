@@ -56,7 +56,7 @@ This will start the React development server, and you should be able to access t
 
 - [React](https://reactjs.org/) - The web framework used for the client-side interface
 - [Node.js](https://nodejs.org/) - The runtime server
-- [Express.js](https://expressjs.com/) - (Assumed) Web application framework for Node.js
+- [Express.js](https://expressjs.com/) - Web application framework for Node.js
 - [Vite](https://vitejs.dev/) - A build tool that aims to provide a faster and leaner development experience for modern web projects
 - Other notable packages:
   - [Redux](https://redux.js.org/) - State management
