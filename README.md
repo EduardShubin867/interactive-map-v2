@@ -19,7 +19,7 @@ To run this application, you'll need Node.js installed on your system. If you ha
 Follow these steps to set up your development environment:
 
 Clone the repository to your local machine:
-git clone https://example.com/project.git cd project
+git clone [https://github.com/EduardShubin867/interactive-map-v2.git] cd project
 
 
 Install server dependencies:
