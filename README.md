@@ -19,7 +19,7 @@ To run this application, you'll need Node.js installed on your system. If you ha
 Follow these steps to set up your development environment:
 
 Clone the repository to your local machine:
-git clone [https://github.com/EduardShubin867/interactive-map-v2.git] cd project
+git clone https://github.com/EduardShubin867/interactive-map-v2.git cd project
 
 
 Install server dependencies:
@@ -57,6 +57,7 @@ This will start the React development server, and you should be able to access t
 - [React](https://reactjs.org/) - The web framework used for the client-side interface
 - [Node.js](https://nodejs.org/) - The runtime server
 - [Express.js](https://expressjs.com/) - (Assumed) Web application framework for Node.js
+- [Vite](https://vitejs.dev/) - A build tool that aims to provide a faster and leaner development experience for modern web projects
 - Other notable packages:
   - [Redux](https://redux.js.org/) - State management
   - [Axios](https://github.com/axios/axios) - HTTP client
